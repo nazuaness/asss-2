@@ -1,0 +1,16 @@
+body {
+  background-color: #FDEBD0;
+}
+.myDiv {
+  border: 3px outset #9B59B6;
+  background-color: #F8F9F9;
+}
+
+img {
+  width: 20%;
+  height: auto;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
